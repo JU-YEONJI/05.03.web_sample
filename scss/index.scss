@@ -1,0 +1,16 @@
+$color-yellow : yellow;
+$color-aqua : aquamarine;
+
+body{
+    h1{
+        text-align: center;
+    }
+    h2{
+        text-align: left;
+        color: $color-yellow;
+    }
+
+    p{
+        background-color: $color-aqua;
+    }
+}
